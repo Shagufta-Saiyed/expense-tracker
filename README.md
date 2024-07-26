@@ -46,12 +46,12 @@ The Expense Tracker is a web application designed to help users manage their fin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shagufta-saiyed/expense_tracker.git
+   git clone https://github.com/Shagufta-saiyed/expense-tracker.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd expense_tracker
+   cd expense-tracker
    ```
 
 3. **Open `index.html` in your web browser** to view the application.
